@@ -17,6 +17,9 @@
         <img
     src="ino.jpg"  
 />
+<img
+    src="uh1_logo.png"  
+/>
    <br/>    
 <FONT size = 5 COLOR="#0000FF">
         vous êtes sur le serveur de test du PFE <%out.print( request.getRemoteAddr() );%> <br/><br/>
