@@ -18,7 +18,7 @@
     src="ino.jpg"  
 />
 <img
-    src="uh1_logo.png"  
+    src="supmti.png"  
 />
    <br/>    
 <FONT size = 5 COLOR="#0000FF">
