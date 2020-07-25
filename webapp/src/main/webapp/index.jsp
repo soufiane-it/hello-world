@@ -22,7 +22,7 @@
 />
    <br/>    
 <FONT size = 5 COLOR="#0000FF">
-        vous êtes sur le serveur de test du PFE <%out.print( request.getRemoteAddr() );%> <br/><br/>
+        vous êtes sur le serveur de test du PFE <%out.print( request.getRemoteHost() );%> <br/><br/>
         </FONT>
 
         <hr/>
