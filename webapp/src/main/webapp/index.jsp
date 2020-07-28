@@ -24,7 +24,7 @@
   <div>
  
   <img src='ino.jpg' class='img2' width='200px'/>
-  <img src='supmti.png' class='img1' width='500px' />
+  <img src='sup-mti.png' class='img1' width='350px' />
 
   </div>
 	  
