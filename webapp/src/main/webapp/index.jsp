@@ -11,7 +11,8 @@
     </head>
           
        <!--     <!<body style='background-color: grey;'>>
-             <!<body style='background-color: blue;'>> -->
+             <!<body style='background-color: blue;'>> 
+       -->
 <style>
 
  .img1{ margin-left: 350px; }
@@ -23,9 +24,10 @@
   <div>
  
   <img src='ino.jpg' class='img2' width='200px'/>
-  <img src='supmti.png' class='img1' width='400px' />
+  <img src='supmti.png' class='img1' width='500px' />
 
   </div>
+	  
    <br/>    
 <FONT size = 5 COLOR="#0000FF">
         vous êtes sur le serveur de test du PFE  <br/><br/>
