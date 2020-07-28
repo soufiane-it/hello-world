@@ -15,7 +15,7 @@
        -->
 <style>
 
- .img1{ margin-left: 350px; }
+ .img1{ margin-left: 300px; }
 
   </style>
 
@@ -24,7 +24,7 @@
   <div>
  
   <img src='ino.jpg' class='img2' width='200px'/>
-  <img src='sup-mti.png' class='img1' width='350px' />
+  <img src='sup-mti.png' class='img1' width='400px' />
 
   </div>
 	  
