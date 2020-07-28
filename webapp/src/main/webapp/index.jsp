@@ -23,7 +23,7 @@
   <div>
  
   <img src='ino.jpg' class='img2' width='200px'/>
-  <img src='supmti.png' class='img1' width='350px' />
+  <img src='supmti.png' class='img1' width='400px' />
 
   </div>
    <br/>    
